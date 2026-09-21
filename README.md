@@ -2,12 +2,12 @@
 
 ### Software Engineer · Product Builder · Full-Stack Developer
 
-I design and build production-minded digital products for communities, businesses, and mission-driven organisations. My work spans **native Android**, **React**, **FastAPI**, **Express**, payments, realtime systems, civic technology, and data-driven administration.
+I design and build production-minded digital products for communities, businesses, and mission-driven organisations. My work spans **native Android**, **React**, **FastAPI**, **Express**, payments, real-time systems, desktop applications, and accounting software.
 
 📍 Accra, Ghana · 🌍 Building for Africa and beyond
 
 <p align="left">
-  <a href="mailto:yawdjandanquah@gmail.com"><img src="https://img.shields.io/badge/Email-yawdjandanquah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logo" alt="Email" /></a>
+  <a href="mailto:yawdjandanquah@gmail.com"><img src="https://img.shields.io/badge/Email-yawdjandanquah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/yaw-djan-danquah"><img src="https://img.shields.io/badge/LinkedIn-Yaw%20Djan%20Danquah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/yawdjan"><img src="https://img.shields.io/badge/GitHub-yawdjan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -18,7 +18,8 @@ I design and build production-minded digital products for communities, businesse
 
 - 📱 **Mobile products** with Kotlin, Jetpack Compose, and resilient networking
 - 🌐 **Web platforms** with React, Vite, TypeScript, TailwindCSS, and accessible interaction design
-- ⚙️ **Backend systems** with Python, FastAPI, Node.js, Express, REST APIs, and WebSockets
+- 🖥️ **Desktop applications** with .NET, WPF, XAML, and custom design systems
+- ⚙️ **Backend systems** with Python, FastAPI, Node.js, Express, ASP.NET Core, REST APIs, and WebSockets
 - 💳 **Transactional workflows** including Paystack payments, deposits, refunds, and payouts
 - 🧭 **Role-aware platforms** with hierarchical permissions, dashboards, and operational tooling
 - 🛡️ **Production foundations** including authentication, secure storage, observability, uploads, and deployment automation
@@ -26,10 +27,10 @@ I design and build production-minded digital products for communities, businesse
 ## 🧰 Technology Focus
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,jetpackcompose,python,fastapi,javascript,typescript,react,nodejs,express,postgresql,sqlite,docker,git,github,linux&perline=8" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,android,jetpackcompose,python,fastapi,javascript,typescript,react,nodejs,express,dotnet,postgresql,sqlite,docker,git,github,linux&perline=9" alt="Technology stack" />
 </p>
 
-**Also experienced with:** Hilt · Ktor · Coroutines and Flow · JWT · WebSockets · Framer Motion · Recharts · ExcelJS · Paystack · Firebase Crashlytics · Cloudflare R2 · nginx · Let's Encrypt
+**Also experienced with:** Hilt · Ktor · Coroutines and Flow · JWT · WebSockets · Framer Motion · Recharts · ExcelJS · Paystack · Firebase Crashlytics · Cloudflare R2 · nginx · Let's Encrypt · WPF · XAML · EF Core
 
 ---
 
@@ -37,7 +38,7 @@ I design and build production-minded digital products for communities, businesse
 
 ### 🧵 Patterns — Artisan Marketplace & Social Platform
 
-**Patterns** is a two-sided marketplace for Ghanaian artisans and their customers, combining social discovery with service scheduling. Customers browse artisan work, book live calendar slots, and pay deposits through Paystack. Artisans manage services, availability, bookings, and payouts.
+**Patterns** is a two-sided marketplace for Ghanaian artisans and their customers, combining social discovery with service scheduling. Customers browse artisan work, book live calendar slots, and pay securely for services.
 
 **Built solo across three product surfaces:** native Android app, FastAPI backend, and React marketing site.
 
@@ -97,6 +98,32 @@ A petition platform for the same Pan-African civic movement, built to publish ca
 
 ---
 
+### 🏗️ ConsikaBooks — Multi-Company Construction ERP
+
+**ConsikaBooks** is a production desktop ERP for a Ghanaian construction holding company operating four divisions: Warehouse, Construction, Estate, and a Block Factory. It replaces years of spreadsheet bookkeeping with a real double-entry accounting engine, department-scoped operations, and an approval-driven procurement pipeline.
+
+The system is genuinely **multi-company**: each division keeps its own books, while inter-division transfers post to clearing accounts that net to zero at the consolidated level. Reporting is available per division or across the group.
+
+- 📚 Full double-entry ledger with trial balance, P&L, and balance sheet generated from primary records
+- 🧩 Role-based account posting, allowing Finance to re-point posting roles without changing code
+- ✅ Approval state machines for requisitions, procurement review, and dual Admin + Audit sign-off
+- 📦 Perpetual inventory with construction-site stock tracking and HQ reconciliation
+- 🏠 Estate management for properties, units, tenants, leases, rent billing, and maintenance requests
+- 🧱 Block factory production with bills of materials and three sale routes
+- 📄 Shared document store with tagging, expiry tracking, and department-scoped visibility
+- 🔐 Role- and department-based access control with a complete audit trail
+- 📊 Historical migration and reconciliation of **14,497 general-ledger entries across three years**
+- 📤 Spreadsheet export centre for financial statements, operational datasets, and reference data
+- 🖥️ Desktop-first WPF application with 47 views across Finance, Construction, Procurement, Inventory, Estate, Block Factory, and Admin
+
+**Architecture:** .NET 10 / WPF desktop client · ASP.NET Core Portal API · C# 14 · EF Core · PostgreSQL 16 · JWT · BCrypt · Linux VPS · systemd · Nginx
+
+**Availability:** Soon to be listed on the **Microsoft Store** with restricted access for authorised users. This is an ongoing production engagement, not a demo; client financial data is not included.
+
+> Built and maintained under the **Mecury** brand (Yaw Danquah).
+
+---
+
 ## 🏗️ Engineering Approach
 
 ```text
@@ -105,11 +132,11 @@ Correctness at the data boundary  ·  Small, observable changes
 Production behaviour over demo behaviour  ·  Impact over activity
 ```
 
-I care about the details that make products dependable after launch: permission boundaries that come from a single source of truth, server-side validation, idempotent payment operations, honest empty states, secure credentials, resilient retries, and interfaces that work across real devices and input methods.
+I care about the details that make products dependable after launch: permission boundaries that come from a single source of truth, server-side validation, idempotent payment operations, honest empty states, resilient failure handling, and systems that remain understandable as they grow.
 
 ## 🤝 Let’s Connect
 
-I’m open to conversations about software engineering, product development, architecture, civic technology, marketplaces, and opportunities to build useful products with thoughtful teams.
+I’m open to conversations about software engineering, product development, architecture, civic technology, marketplaces, accounting systems, and opportunities to build useful products with thoughtful teams.
 
 - 📧 [yawdjandanquah@gmail.com](mailto:yawdjandanquah@gmail.com)
 - 💼 [linkedin.com/in/yaw-djan-danquah](https://www.linkedin.com/in/yaw-djan-danquah)
