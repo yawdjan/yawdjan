@@ -30,7 +30,7 @@ I design and build production-minded digital products for communities, businesse
   <img src="https://skillicons.dev/icons?i=kotlin,android,jetpackcompose,python,fastapi,javascript,typescript,react,nodejs,express,dotnet,postgresql,sqlite,docker,git,github,linux&perline=9" alt="Technology stack" />
 </p>
 
-**Also experienced with:** Hilt · Ktor · Coroutines and Flow · JWT · WebSockets · Framer Motion · Recharts · ExcelJS · Paystack · Firebase Crashlytics · Cloudflare R2 · nginx · Let's Encrypt · WPF · XAML · EF Core
+**Also experienced with:** Hilt · Ktor · Coroutines and Flow · JWT · WebSockets · Framer Motion · Recharts · ExcelJS · Paystack · Firebase Crashlytics · Cloudflare R2 · nginx · Let's Encrypt · WPF · XAML · EF Core · C++
 
 ---
 
