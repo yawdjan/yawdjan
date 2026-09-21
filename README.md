@@ -7,7 +7,7 @@ I design and build production-minded digital products for communities, businesse
 📍 Accra, Ghana · 🌍 Building for Africa and beyond
 
 <p align="left">
-  <a href="mailto:yawdjandanquah@gmail.com"><img src="https://img.shields.io/badge/Email-yawdjandanquah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:yawdjandanquah@gmail.com"><img src="https://img.shields.io/badge/Email-yawdjandanquah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logo" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/yaw-djan-danquah"><img src="https://img.shields.io/badge/LinkedIn-Yaw%20Djan%20Danquah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/yawdjan"><img src="https://img.shields.io/badge/GitHub-yawdjan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
