@@ -120,6 +120,12 @@ The system is genuinely **multi-company**: each division keeps its own books, wh
 
 **Availability:** Soon to be listed on the **Microsoft Store** with restricted access for authorised users. This is an ongoing production engagement, not a demo; client financial data is not included.
 
+<img width="921" height="563" alt="Screenshot 2026-08-11 104854" src="https://github.com/user-attachments/assets/c68fd14a-861e-4008-92c1-5f408ad49419" />
+<img width="921" height="563" alt="Screenshot 2026-08-11 104914" src="https://github.com/user-attachments/assets/d085796e-b42a-47ec-b153-eb1175e6db5a" />
+<img width="561" height="326" alt="Screenshot 2026-08-11 104946" src="https://github.com/user-attachments/assets/53066a2d-dc18-4956-8468-c07950462f2e" />
+<img width="921" height="563" alt="Screenshot 2026-08-11 104906" src="https://github.com/user-attachments/assets/12c11ec9-e807-44a8-ab4c-059cc7348e2d" />
+
+
 > Built and maintained under the **Mecury** brand (Yaw Danquah).
 
 ---
