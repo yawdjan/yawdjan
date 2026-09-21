@@ -1,80 +1,120 @@
-# Hi, I’m Yawdjan 👋
+# Hi, I’m Yaw Danquah 👋
 
-### Software Engineer · Product Builder · Technology Enthusiast
+### Software Engineer · Product Builder · Full-Stack Developer
 
-I build thoughtful, scalable software for real-world products and teams. My work focuses on turning complex requirements into reliable, maintainable experiences—with an emphasis on clean architecture, measurable impact, and continuous improvement.
+I design and build production-minded digital products for communities, businesses, and mission-driven organisations. My work spans **native Android**, **React**, **FastAPI**, **Express**, payments, realtime systems, civic technology, and data-driven administration.
 
-> **Open to meaningful conversations, challenging problems, and opportunities to build technology that matters.**
+📍 Accra, Ghana · 🌍 Building for Africa and beyond
 
 <p align="left">
-  <a href="https://github.com/yawdjan">
-    <img src="https://img.shields.io/github/followers/yawdjan?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/yawdjan?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View projects" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
-  </a>
+  <a href="mailto:yawdjandanquah@gmail.com"><img src="https://img.shields.io/badge/Email-yawdjandanquah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yaw-djan-danquah"><img src="https://img.shields.io/badge/LinkedIn-Yaw%20Djan%20Danquah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/yawdjan"><img src="https://img.shields.io/badge/GitHub-yawdjan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Build
 
-- 🧩 Design and deliver maintainable software for production environments
-- 🏗️ Translate business and user needs into clear technical solutions
-- 🔍 Improve performance, reliability, developer experience, and code quality
-- 🤝 Collaborate with cross-functional teams and stakeholders
-- 📚 Learn continuously and share knowledge through practical engineering
+- 📱 **Mobile products** with Kotlin, Jetpack Compose, and resilient networking
+- 🌐 **Web platforms** with React, Vite, TypeScript, TailwindCSS, and accessible interaction design
+- ⚙️ **Backend systems** with Python, FastAPI, Node.js, Express, REST APIs, and WebSockets
+- 💳 **Transactional workflows** including Paystack payments, deposits, refunds, and payouts
+- 🧭 **Role-aware platforms** with hierarchical permissions, dashboards, and operational tooling
+- 🛡️ **Production foundations** including authentication, secure storage, observability, uploads, and deployment automation
 
-## 🛠️ Technical Focus
+## 🧰 Technology Focus
 
 <p align="left">
-  <!-- Replace these with the technologies you actively use. -->
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,react,nodejs,express,postgresql,mongodb,docker,git,github,linux&perline=7" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,android,jetpackcompose,python,fastapi,javascript,typescript,react,nodejs,express,postgresql,sqlite,docker,git,github,linux&perline=8" alt="Technology stack" />
 </p>
 
-**Core strengths:** software architecture · APIs · databases · testing · CI/CD · cloud-ready systems · technical documentation · agile collaboration
+**Also experienced with:** Hilt · Ktor · Coroutines and Flow · JWT · WebSockets · Framer Motion · Recharts · ExcelJS · Paystack · Firebase Crashlytics · Cloudflare R2 · nginx · Let's Encrypt
 
-## 💼 Selected Work
+---
 
-A selection of projects and engagements that reflect how I approach engineering: with curiosity, ownership, and a focus on outcomes.
+## ⭐ Selected Products
 
-| Project | What I worked on | Impact / technologies |
-| --- | --- | --- |
-| **[Project or product name]** | [Short description of your contribution] | [Outcome, scale, or stack] |
-| **[Project or product name]** | [Short description of your contribution] | [Outcome, scale, or stack] |
-| **[Project or product name]** | [Short description of your contribution] | [Outcome, scale, or stack] |
+### 🧵 Patterns — Artisan Marketplace & Social Platform
 
-> Some work is private or subject to confidentiality. This profile highlights representative capabilities without exposing proprietary details.
+**Patterns** is a two-sided marketplace for Ghanaian artisans and their customers, combining social discovery with service scheduling. Customers browse artisan work, book live calendar slots, and pay deposits through Paystack. Artisans manage services, availability, bookings, and payouts.
 
-## 🌱 Currently Exploring
+**Built solo across three product surfaces:** native Android app, FastAPI backend, and React marketing site.
 
-- ⚙️ Building resilient, observable, and developer-friendly systems
-- 🧠 Applying practical AI and automation to improve products and workflows
-- 📈 Connecting engineering decisions to measurable business outcomes
-- 🌍 Contributing to teams that value quality, inclusion, and continuous learning
+- 🔐 Secure Android authentication with `EncryptedSharedPreferences` and one-time migration
+- 💬 Resilient WebSocket chat with presence, auth refresh, and `DROP_OLDEST` backpressure
+- 💳 Paystack deposits with explicit card/mobile-money channels and idempotent retries
+- 📲 Backend push delivery using FCM HTTP v1 and APNs HTTP/2 without vendor SDKs
+- ☁️ Presigned media uploads with typed failure handling, refresh, retry, and backoff
+- 🧪 Dev, staging, and production environments managed with Gradle product flavors
+- 📜 Ghana-jurisdiction legal and compliance groundwork for a real-money marketplace
 
-## 📌 Engineering Principles
+<img width="270" alt="Patterns mobile marketplace" src="https://github.com/user-attachments/assets/379b560a-136f-47db-9988-ea5cf98c74e4" />
+<img width="279" alt="Patterns booking experience" src="https://github.com/user-attachments/assets/b836936f-f916-4722-9264-6a8cd3354434" />
+<img width="270" alt="Patterns artisan experience" src="https://github.com/user-attachments/assets/c52420de-44af-4f46-bd7c-ee23e86e2e1f" />
+
+**Stack:** Kotlin · Jetpack Compose · Ktor · Hilt · FastAPI · PostgreSQL · WebSockets · Paystack · React · TypeScript
+
+---
+
+### 🌍 HZM Platform — Pan-African Membership & Chapter Management
+
+**HZM** is a production membership platform for a Pan-African civic movement, supporting onboarding and coordination across a multi-level chapter hierarchy spanning 50 African countries.
+
+- 🗺️ Interactive SVG Africa atlas with country and regional membership density
+- 🏛️ One canonical chapter tree powering ancestry, search, statistics, and scoping
+- 🔒 Hierarchical authorisation: executives manage their chapter and descendants; HQ sees all
+- 🗳️ Elections, role applications, events, RSVP, and member lifecycle management
+- 🧾 Canonical country/region data instead of unreliable free-text location fields
+- 🔄 Honest dual-mode operation: live API data or bundled demo fixtures without mock-data leakage
+- 🛠️ Self-migrating SQLite schema and self-hostable VPS deployment
+
+🔗 **Live platform:** [join.harakatizamuungano.org](https://join.harakatizamuungano.org)
+
+**Stack:** React · Vite · TailwindCSS · Framer Motion · React Router · Express · SQLite · JWT
+
+<img width="720" alt="HZM membership platform dashboard" src="https://github.com/user-attachments/assets/acc15aa6-988d-4310-a3f7-5da6c2706cf2" />
+
+---
+
+### ✍️ HZM Petitions — Civic Petition & Signature Platform
+
+A petition platform for the same Pan-African civic movement, built to publish campaigns, collect verified signatures, and provide useful administrative exports and analytics.
+
+- 🖊️ Cross-input signature capture using Pointer Events for mouse, touch, and stylus
+- 📊 Petition analytics with signature velocity, geography, and anonymity breakdowns
+- 🧩 Dynamic form builder with client/server validation and image uploads
+- 🔏 Enforced anonymity for public feeds while preserving administrator records
+- 📗 Server-generated Excel exports with signature images embedded directly in cells
+- 🛡️ Separate admin authentication boundary with server-side enforcement on every request
+- ⚖️ Race-safe one-email-per-petition constraint backed by a database uniqueness index
+
+🔗 **Live platform:** [petitions.harakatizamuungano.org](https://petitions.harakatizamuungano.org)
+
+**Stack:** React · Vite · TailwindCSS · Framer Motion · Recharts · Express · SQLite · ExcelJS
+
+<img width="720" alt="HZM petitions platform" src="https://github.com/user-attachments/assets/e5975192-6a87-493e-b490-680cf91cecbf" />
+
+---
+
+## 🏗️ Engineering Approach
 
 ```text
-Clarity over cleverness  ·  Ownership over assumptions  ·  Impact over activity
-Small, observable changes  ·  Security and accessibility by default
+Clarity over cleverness  ·  Security and accessibility by default
+Correctness at the data boundary  ·  Small, observable changes
+Production behaviour over demo behaviour  ·  Impact over activity
 ```
+
+I care about the details that make products dependable after launch: permission boundaries that come from a single source of truth, server-side validation, idempotent payment operations, honest empty states, secure credentials, resilient retries, and interfaces that work across real devices and input methods.
 
 ## 🤝 Let’s Connect
 
-I’m interested in conversations about software engineering, product development, architecture, and opportunities to solve meaningful problems with great teams.
+I’m open to conversations about software engineering, product development, architecture, civic technology, marketplaces, and opportunities to build useful products with thoughtful teams.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/">LinkedIn</a> ·
-  <a href="mailto:your.email@example.com">Email</a> ·
-  <a href="https://github.com/yawdjan">GitHub</a>
-</p>
-
----
+- 📧 [yawdjandanquah@gmail.com](mailto:yawdjandanquah@gmail.com)
+- 💼 [linkedin.com/in/yaw-djan-danquah](https://www.linkedin.com/in/yaw-djan-danquah)
+- 🧑🏿‍💻 [github.com/yawdjan](https://github.com/yawdjan)
 
 <p align="center">
-  <i>Thanks for visiting — feel free to explore my repositories.</i> ✨
+  <i>Thanks for visiting — explore the projects below and feel free to reach out.</i> ✨
 </p>
